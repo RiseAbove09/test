@@ -1,5 +1,15 @@
 #!/bin/bash
 
+#######################################
+# Author : Harshal Gujar
+# Date   : January 10th 2025
+#
+# This script returns github users in prticulers organisation
+#
+# Version : v1
+# Inputs  : Organisation Name , Repository Name
+########################################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
